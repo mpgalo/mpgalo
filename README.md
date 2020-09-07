@@ -3,12 +3,12 @@
 My name is Marcus, I'm a software developer/architect and passionate about design patterns, devops practices and also i am a agile enthusiast. 
 I have been dedicated for a long time to the .NET platform and learn its details. Today i work with a focus on team orientation, combining good coding practices, devops and agile frameworks.
 
-• Technical leadership in software development teams.
-• Continuous Integration and Continuous Delivery.
-• Software architecture and design patterns.
-• Agile Software Development pratices.
-• Domain Driven Design (DDD). 
-• Cloud technologies. 
+- • Technical leadership in software development teams.
+- • Continuous Integration and Continuous Delivery.
+- • Software architecture and design patterns.
+- • Agile Software Development pratices.
+- • Domain Driven Design (DDD). 
+- • Cloud technologies. 
 
 <!--
 **mpghelli/mpghelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
