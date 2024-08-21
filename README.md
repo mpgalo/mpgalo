@@ -58,10 +58,12 @@ My name is Marcus, I'm a software developer/architect and passionate about desig
 - ![Web Based Client Development](https://img.shields.io/badge/Web%20Based%20Client%20Development-Microsoft-brightgreen)
 
 ## ✍️ Articles
-- [Build Native iOS and Android with Visual Studio and Xamarin](https://www.linkedin.com/pulse/build-native-ios-android-visual-studio-xamarin-c-marcus-ghelli/?trackingId=gxwDrnnkT0GGPs2k3Vbv0A%3D%3D) - LinkedIn
-- [DevOps: se adequar ao novo e seguir em frente](https://www.montreal.com.br/devops-se-adequar-ao-novo-e-seguir-em-frente/) - Montreal
-- [Equilíbrio entre Estrutura e Crescimento: Liberando o Potencial dos Profissionais](https://medium.com/@marcuspcouto/equil%C3%ADbrio-entre-estrutura-e-crescimento-liberando-o-potencial-dos-profissionais-750547376df2) - Medium
+
+- [Impulsionando o Futuro do Desenvolvimento de Software com IA Generativa e Code Assist](https://www.montreal.com.br/ia-generativas-e-code-assist/) - Montreal
 - [Explorando o Potencial do Azure DevOps em 2024: Um Guia Atualizado](https://medium.com/@marcuspcouto/explorando-o-potencial-do-azure-devops-em-2024-um-guia-atualizado-7e1b867a6406) - Medium
+- [Equilíbrio entre Estrutura e Crescimento: Liberando o Potencial dos Profissionais](https://medium.com/@marcuspcouto/equil%C3%ADbrio-entre-estrutura-e-crescimento-liberando-o-potencial-dos-profissionais-750547376df2) - Medium
+- [DevOps: se adequar ao novo e seguir em frente](https://www.montreal.com.br/devops-se-adequar-ao-novo-e-seguir-em-frente/) - Montreal
+- [Build Native iOS and Android with Visual Studio and Xamarin](https://www.linkedin.com/pulse/build-native-ios-android-visual-studio-xamarin-c-marcus-ghelli/?trackingId=gxwDrnnkT0GGPs2k3Vbv0A%3D%3D) - LinkedIn
 
 ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpgalo&show_icons=true&theme=radical)
