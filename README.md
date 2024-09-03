@@ -67,7 +67,6 @@ My name is Marcus, I'm a software developer/architect and passionate about desig
 
 ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpgalo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpgalo&layout=compact&theme=radical)
 
 ## 🔄 GitHub Activity
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpgalo&theme=radical)
