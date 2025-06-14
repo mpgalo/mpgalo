@@ -59,7 +59,7 @@ My name is Marcus, I'm a software developer/architect and passionate about desig
 
 ## ✍️ Articles
 
-- [Impulsionando o Futuro do Desenvolvimento de Software com IA Generativa e Code Assist](https://www.montreal.com.br/ia-generativas-e-code-assist/) - Montreal
+- [Impulsionando o Futuro do Desenvolvimento de Software com IA Generativa e Code Assist](https://www0.montreal.com.br/ia-generativas-e-code-assist/) - Montreal
 - [Explorando o Potencial do Azure DevOps em 2024: Um Guia Atualizado](https://medium.com/@marcuspcouto/explorando-o-potencial-do-azure-devops-em-2024-um-guia-atualizado-7e1b867a6406) - Medium
 - [Equilíbrio entre Estrutura e Crescimento: Liberando o Potencial dos Profissionais](https://medium.com/@marcuspcouto/equil%C3%ADbrio-entre-estrutura-e-crescimento-liberando-o-potencial-dos-profissionais-750547376df2) - Medium
 - [DevOps: se adequar ao novo e seguir em frente](https://www.montreal.com.br/devops-se-adequar-ao-novo-e-seguir-em-frente/) - Montreal
