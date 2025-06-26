@@ -65,8 +65,8 @@ My name is Marcus, I'm a software developer/architect and passionate about desig
 - [DevOps: se adequar ao novo e seguir em frente](https://www.montreal.com.br/devops-se-adequar-ao-novo-e-seguir-em-frente/) - Montreal
 - [Build Native iOS and Android with Visual Studio and Xamarin](https://www.linkedin.com/pulse/build-native-ios-android-visual-studio-xamarin-c-marcus-ghelli/?trackingId=gxwDrnnkT0GGPs2k3Vbv0A%3D%3D) - LinkedIn
 
-## 🔄 GitHub Activity
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpgalo&theme=radical)
+## 🔄 GitHub Information
+![GitHub Information](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpgalo&theme=radical)
 
 ## 🚀 Let's Connect
 Feel free to reach out to me for collaboration or just to connect!
