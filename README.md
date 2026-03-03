@@ -124,8 +124,6 @@ Software developer and architect with deep expertise in the **.NET ecosystem**, 
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpgalo&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpgalo&theme=radical&layout=compact&langs_count=6)
-
 </div>
 
 ---
