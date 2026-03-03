@@ -46,19 +46,6 @@ Software developer and architect with deep expertise in the **.NET ecosystem**, 
 
 ---
 
-## Key Competencies
-
-| Area | Highlights |
-|------|-----------|
-| **Technical Leadership** | Team mentorship, code review culture, engineering standards |
-| **Software Architecture** | DDD, design patterns, microservices, clean architecture |
-| **DevOps & CI/CD** | Azure DevOps, GitHub Actions, pipeline automation |
-| **Agile at Scale** | Scrum, Kanban, SAFe, OKRs, team coaching |
-| **Cloud** | Azure (certified), AWS (certified), cloud-native solutions |
-| **AI & Innovation** | Generative AI, code assist tooling, AI-driven development |
-
----
-
 ## Certifications
 
 <details>
@@ -125,9 +112,9 @@ Software developer and architect with deep expertise in the **.NET ecosystem**, 
 
 | Title | Publication |
 |-------|-------------|
-| [Explorando o Potencial do Azure DevOps em 2024: Um Guia Atualizado](https://medium.com/@marcuspcouto/explorando-o-potencial-do-azure-devops-em-2024-um-guia-atualizado-7e1b867a6406) | Medium |
-| [Equilíbrio entre Estrutura e Crescimento: Liberando o Potencial dos Profissionais](https://medium.com/@marcuspcouto/equil%C3%ADbrio-entre-estrutura-e-crescimento-liberando-o-potencial-dos-profissionais-750547376df2) | Medium |
-| [Build Native iOS and Android with Visual Studio and Xamarin](https://www.linkedin.com/pulse/build-native-ios-android-visual-studio-xamarin-c-marcus-ghelli/?trackingId=gxwDrnnkT0GGPs2k3Vbv0A%3D%3D) | LinkedIn |
+| [Explorando o Potencial do Azure DevOps em 2024: Um Guia Atualizado](https://medium.com/@marcuspcouto/explorando-o-potencial-do-azure-devops-em-2024-um-guia-atualizado-7e1b867a6406) | ![Medium](https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white) |
+| [Equilíbrio entre Estrutura e Crescimento: Liberando o Potencial dos Profissionais](https://medium.com/@marcuspcouto/equil%C3%ADbrio-entre-estrutura-e-crescimento-liberando-o-potencial-dos-profissionais-750547376df2) | ![Medium](https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white) |
+| [Build Native iOS and Android with Visual Studio and Xamarin](https://www.linkedin.com/pulse/build-native-ios-android-visual-studio-xamarin-c-marcus-ghelli/?trackingId=gxwDrnnkT0GGPs2k3Vbv0A%3D%3D) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) |
 
 ---
 
@@ -136,6 +123,8 @@ Software developer and architect with deep expertise in the **.NET ecosystem**, 
 <div align="center">
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpgalo&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpgalo&theme=radical&layout=compact&langs_count=6)
 
 </div>
 
