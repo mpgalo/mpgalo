@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marcus Ghelli
+# Marcus Couto
 ### Software Architect & Technical Leader
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspghelli/)
