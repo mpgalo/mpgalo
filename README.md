@@ -3,7 +3,7 @@
 # Marcus Couto
 ### Software Architect & Technical Leader
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspghelli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspcouto/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcuspcouto)
 
 ---
@@ -132,6 +132,6 @@ Software developer and architect with deep expertise in the **.NET ecosystem**, 
 
 💬 Let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcuspcouto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspghelli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcuspcouto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspcouto/)
 
 </div>
