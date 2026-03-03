@@ -146,9 +146,8 @@ Software developer and architect with deep expertise in the **.NET ecosystem**, 
 
 <div align="center">
 
-**Open to new challenges and collaborations.**
-Feel free to reach out!
+💬 Let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcuspghelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspghelli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcuspcouto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspghelli/)
 
 </div>
